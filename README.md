@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Refujio Colmenero
 - 👀 I’m interested in art, music, photography, nature, and best of all, data.
-- 🌱 I’m currently studying for my MIS degree through SNHU and also getting certs through Data Quest to be a Data Science.
-- 💞️ I’m looking to collaborate on datsbase analysis, maybe even go out and collect our own data over a certain topic and create our own database. 
+- 🌱 I’m currently studying for my MIS degree through SNHU and also getting certs through Data Quest to be a Data Scientist.
+- 💞️ I’m looking to collaborate on database analysis, maybe even go out and collect my own data over a certain topic and create my own database. 
 - 📫 If at all interested, text me at 817-204-9488 or look me on on LikedIn ----> https://www.linkedin.com/in/refujio-colmenero/
 
 <!---
